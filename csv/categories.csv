@@ -1,0 +1,182 @@
+ID,ParentID,Name,top,columns,sort_order,Image,date_added,date_modified,language_id,seo_keyword,description,meta_description,meta_keywords,store_ids,layout,Status
+80,0,Katalogas,,,,,,,,Katalogas,,,,,,TRUE
+459,0,Dovanų idėjos,,,,,,,,Dovanų idėjos,,,,,,TRUE
+61,459,Kalėdiniai atvirukai 2017,,,,/banners/kaledu baneris.jpg,,,,Kalėdiniai atvirukai 2017,,,,,,TRUE
+197,61,Kalėdiniai atvirukai - In Blue,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai Blue 2015.jpg,,,,Kalėdiniai atvirukai - In Blue,,,,,,TRUE
+198,61,Kalėdiniai atvirukai - In Gold,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai Gold 2015.jpg,,,,Kalėdiniai atvirukai - In Gold,,,,,,TRUE
+199,61,Kalėdiniai atvirukai - In Green,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai Green 2015.jpg,,,,Kalėdiniai atvirukai - In Green,,,,,,TRUE
+195,61,Kalėdiniai atvirukai - In Red,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai Red 2015.jpg,,,,Kalėdiniai atvirukai - In Red,,,,,,TRUE
+200,61,Kalėdiniai atvirukai - In Silver,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai Silver 2015.jpg,,,,Kalėdiniai atvirukai - In Silver,,,,,,TRUE
+201,61,Kalėdiniai atvirukai - In White,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai White 2015.jpg,,,,Kalėdiniai atvirukai - In White,,,,,,TRUE
+207,201,Išskirtiniai atvirukai,,,,data/FIRSTX2842RedRibbonTree.jpg,,,,Išskirtiniai atvirukai,,,,,,TRUE
+150,61,Kalėdiniai atvirukai 2015,,,,data/Kaledos 2010/Kaledos 2015/Kalediniai atvirukai 2 2015.jpg,,,,Kalėdiniai atvirukai 2015,,,,,,TRUE
+221,61,Kalėdinė saldi dovanėlė,,,,data/Kaledos 2010/kaledines-dovanos-saldi-dezute-saldainiams .jpg,,,,Kalėdinė saldi dovanėlė,,,,,,TRUE
+113,61,Velykos,,,,data/Velykos/virselis.png,,,,Velykos,,,,,,TRUE
+24,0,Dėžutės,,,,/banners/nemelis su gelem.jpg,,,,Dėžutės,,,,,,TRUE
+251,24,Daiktadėžės,,,,/virseliai/daiktazedes.jpg,,,,Daiktadėžės,,,,,,TRUE
+128,24,Dovanų dėžutės,,,,/banners/sald dezutes.jpg,,,,Dovanų dėžutės,,,,,,TRUE
+502,128,Auksinės dėžutės,,,,/filter/Atviruko spalva forma/auksine.jpg,,,,Auksinės dėžutės,,,,,,TRUE
+548,502, Sendintas auksas (Oro Nero),,,,,,,, Sendintas auksas (Oro Nero),,,,,,TRUE
+521,502,Auksinė lygi,,,,/Dezutes/Real Gold/virselis auskiniu dezuciu.jpg,,,,Auksinė lygi,,,,,,TRUE
+261,502,Auksinė prabangiai blizgi (Pelle Oro),,,,/Dezutes/Pelle oro/Dezute-verslo-dovanu-dezutes-auksines-sveciu-dovaneles-dovanos-dovana-pelle-oro..jpg,,,,Auksinė prabangiai blizgi (Pelle Oro),,,,,,TRUE
+105,502,Auksinė su drobės faktūra (Seta Oro),,,,data/DEZUTES/Seta Oro/53.gif,,,,Auksinė su drobės faktūra (Seta Oro),,,,,,TRUE
+399,502,Auksinė su įspaustu raštu (Sfere Oro),,,,/Dezutes/Sfere Oro/Sfere Oro_.jpg,,,,Auksinė su įspaustu raštu (Sfere Oro),,,,,,TRUE
+497,502,Bronzinė su iškiliu raštu (Bronzo),,,,/Dezutes/Bronzo/bronzo.jpg,,,,Bronzinė su iškiliu raštu (Bronzo),,,,,,TRUE
+190,502,Šampaninė su raštu (Lari Champ.),,,,data/DEZUTES/Lari Champagne/228.gif,,,,Šampaninė su raštu (Lari Champ.),,,,,,TRUE
+300,502,Šviesi auksinė su drobės faktūra (Ardesia Oro),,,,data/DEZUTES/Ardesia Oro/dovanu-dezutes-pakavimas-vestuvems-vestuves-buteliams-kaledos-kaledines-dovanos-ardesia-oro.jpg,,,,Šviesi auksinė su drobės faktūra (Ardesia Oro),,,,,,TRUE
+500,128,Baltos dėžutės,,,,/filter/Atviruko spalva forma/baltos.jpg,,,,Baltos dėžutės,,,,,,TRUE
+467,500,Balta blizgi su įspaustu raštu (Sfere Bianco),,,,/Dezutes/Sfere Bianco/sfere_bianco_.png,,,,Balta blizgi su įspaustu raštu (Sfere Bianco),,,,,,TRUE
+477,500,Balta lygios faktūros (White),,,,/Dezutes/White/White.jpg,,,,Balta lygios faktūros (White),,,,,,TRUE
+104,500,Balta matinė drobės faktūra  (Seta Bianco),,,,data/DEZUTES/Seta Bianco/103.gif,,,,Balta matinė drobės faktūra  (Seta Bianco),,,,,,TRUE
+103,500,Balta matinė su įspaustu raštu (Fiorami),,,,data/DEZUTES/Fiorami/120.gif,,,,Balta matinė su įspaustu raštu (Fiorami),,,,,,TRUE
+495,500,Balta matinė su įspaustu raštu (Harmony),,,,/harmony.jpg,,,,Balta matinė su įspaustu raštu (Harmony),,,,,,TRUE
+478,500,Balta matinė su įspaustu raštu (Matelasse Bianco),,,,/Dezutes/Matelasse bianco/matelasse baltas fonas.jpg,,,,Balta matinė su įspaustu raštu (Matelasse Bianco),,,,,,TRUE
+380,500,Balta su lengvu blizgesiu (Tela Bianco),,,,data/DEZUTES/Tela Bianco/dovaneles-sveciams-dovanu-dezutes-verslo-dezute-pakavimas-vestuvems-vestuves-buteliams-kaledos-kaledines-dovanos-tela-bianco.jpg,,,,Balta su lengvu blizgesiu (Tela Bianco),,,,,,TRUE
+131,500,Balta su lengvu įspaustu blizgesiu (Pelle Bianco),,,,data/DEZUTES/Pelle Bianco/83.gif,,,,Balta su lengvu įspaustu blizgesiu (Pelle Bianco),,,,,,TRUE
+504,128,ECO ir rudos dėžutės,,,,/filter/Atviruko spalva forma/eco.jpg,,,,ECO ir rudos dėžutės,,,,,,TRUE
+181,504,Gofro kartono - Onda Avana,,,,data/DEZUTES/Onda Avana/196.gif,,,,Gofro kartono - Onda Avana,,,,,,TRUE
+212,504,Gofro kartono - Onda Sabbia,,,,/Dezutes/Onda Sabbia/onda sabbia_.jpg,,,,Gofro kartono - Onda Sabbia,,,,,,TRUE
+475,504,Kraft (Avana),,,,/Dezutes/Avana/bendra.jpg,,,,Kraft (Avana),,,,,,TRUE
+526,504,Lino Marrone,,,,,,,,Lino Marrone,,,,,,TRUE
+149,504,Prabangi ruda (Pelle Marrone),,,,data/DEZUTES/Pelle Marrone/167.gif,,,,Prabangi ruda (Pelle Marrone),,,,,,TRUE
+460,504,Rausva (Matelasse Nudo),,,,/Dezutes/Matelasse Nudo/snudo.jpg,,,,Rausva (Matelasse Nudo),,,,,,TRUE
+188,504,Ruda ( Lari Ramato),,,,data/DEZUTES/Lari Ramato/223.gif,,,,Ruda ( Lari Ramato),,,,,,TRUE
+167,504,Ruda ( Seta Marrone),,,,data/DEZUTES/Seta Marrone/98.gif,,,,Ruda ( Seta Marrone),,,,,,TRUE
+479,504,Ruda (Matelase cuoio),,,,,,,,Ruda (Matelase cuoio),,,,,,TRUE
+480,504,Ruda (Matelasse cuoio),,,,/Dezutes/Matelasse Cuoio/mate virsus.jpg,,,,Ruda (Matelasse cuoio),,,,,,TRUE
+220,504,Smėlio sp. (Sacco),,,,data/DEZUTES/Sacco/dovanu dezutes sacco.jpg,,,,Smėlio sp. (Sacco),,,,,,TRUE
+507,128,Geltonos ir oranžinės dėžutės,,,,/filter/Atviruko spalva forma/oranzine ir geltona.jpg,,,,Geltonos ir oranžinės dėžutės,,,,,,TRUE
+218,507,Oranžinė (Terra),,,,data/DEZUTES/Terra/dovanu dezutes oranzine terra.jpg,,,,Oranžinė (Terra),,,,,,TRUE
+111,128,In Perla,,,,data/DEZUTES/In Perla/148.gif,,,,In Perla,,,,,,TRUE
+503,128,Juodos ir pilkos dėžutės,,,,/filter/Atviruko spalva forma/juodos is pilkos.jpg,,,,Juodos ir pilkos dėžutės,,,,,,TRUE
+260,503,Juoda (Pelle Nero),,,,data/DEZUTES/Pelle Nero/dovanu-dezutes-juodos-skaidrios-dezute-deze-pakavimui.jpg,,,,Juoda (Pelle Nero),,,,,,TRUE
+177,503,Juoda (Seta Nero),,,,data/DEZUTES/Seta Nero/168.gif,,,,Juoda (Seta Nero),,,,,,TRUE
+513,503,Pilka (Damas. Tortora),,,,,,,,Pilka (Damas. Tortora),,,,,,TRUE
+393,503,Pilka (Linea Tortora),,,,data/DEZUTES/Linea Tortora/dovanu-dezute-maiselis-dezutes-maiseliai-pakavimas-vokelis-saldainiams-vestuvems-vestuves-verslo-dovanos-kaledos-kaledines-dovanos-linea-tortora.jpg,,,,Pilka (Linea Tortora),,,,,,TRUE
+463,503,Pilka (Matelasse Grigio),,,,/Dezutes/Matelasse Grigio/dezutes_pilkos_matelasse_grigio.jpg,,,,Pilka (Matelasse Grigio),,,,,,TRUE
+148,503,Sidabrinė (Pelle Grigio),,,,data/DEZUTES/Pelle Grigio/108.gif,,,,Sidabrinė (Pelle Grigio),,,,,,TRUE
+162,503,Sidabrinė (Seta Argento),,,,data/DEZUTES/Seta Argento/52.gif,,,,Sidabrinė (Seta Argento),,,,,,TRUE
+547,503,Smokingas (Smoking),,,,,,,,Smokingas (Smoking),,,,,,TRUE
+501,128,Kreminės dėžutės,,,,/filter/Atviruko spalva forma/krmines.jpg,,,,Kreminės dėžutės,,,,,,TRUE
+101,501,Kreminė (Diamante),,,,/Dezutes/Diamante/Diamante.jpg,,,,Kreminė (Diamante),,,,,,TRUE
+102,501,Kreminė (Seta Avorio),,,,data/DEZUTES/Seta Avorio/104.gif,,,,Kreminė (Seta Avorio),,,,,,TRUE
+465,501,Kreminė (Sfere Crema),,,,/Dezutes/Sfere Creme/Sfere Creme-k.jpg,,,,Kreminė (Sfere Crema),,,,,,TRUE
+349,501,Kreminė (Tela Neutro),,,,data/DEZUTES/Tela Neutro/dovanu-dezutes-verslo-dezute-pakavimas-vestuvems-vestuves-buteliams-kaledos-kaledines-dovanos-tela-neutro.jpg,,,,Kreminė (Tela Neutro),,,,,,TRUE
+481,501,Pilka su žirniukais (Ateli.Tortora),,,,/Dezutes/Ateli.Tortora/Pilka su taskiukais.jpg,,,,Pilka su žirniukais (Ateli.Tortora),,,,,,TRUE
+303,501,Rusva su gėlytėmis (Fiore ricamo),,,,data/DEZUTES/Fiore ric./dovanu-dezute-dezutes-saldainiams-dovanos-dovanele-dovaneles-sveciams-ispudziu-studija-Fiore-ricam.jpg,,,,Rusva su gėlytėmis (Fiore ricamo),,,,,,TRUE
+106,501,Rusva su žirniukais,,,,data/DEZUTES/Dots Nocciola/141.gif,,,,Rusva su žirniukais,,,,,,TRUE
+494,501,Šampaninė (Macrame),,,,/makrame.jpg,,,,Šampaninė (Macrame),,,,,,TRUE
+505,128,Mėlynos dėžutės,,,,/filter/Atviruko spalva forma/melynos.jpg,,,,Mėlynos dėžutės,,,,,,TRUE
+527,505,Melsvos (Seta bluet),,,,,,,,Melsvos (Seta bluet),,,,,,TRUE
+209,505,Mėlyna ( Juta Blue) ,,,,data/DEZUTES/Juta Blue/seta blue.jpg,,,,Mėlyna ( Juta Blue) ,,,,,,TRUE
+108,505,Žydra su žirniukais,,,,data/DEZUTES/Dots Anice/zydros-dovanu-dezutes-krikstynos-su-zirniukais.gif,,,,Žydra su žirniukais,,,,,,TRUE
+109,128,Raudonos,,,,data/DEZUTES/Dots Amarena/149.gif,,,,Raudonos,,,,,,TRUE
+506,128,Žalios dėžutės,,,,/filter/Atviruko spalva forma/zalia j.jpg,,,,Žalios dėžutės,,,,,,TRUE
+520,506,Matelasse Eucalipto,,,,/Dezutes/Mat. eucalipto/eucalipto.png,,,,Matelasse Eucalipto,,,,,,TRUE
+515,506,Mėtinė (Damas.Verdino),,,,,,,,Mėtinė (Damas.Verdino),,,,,,TRUE
+394,506,Samanų žalia (Linea Verde),,,,data/DEZUTES/Linea Verde/Linea Verde.jpg,,,,Samanų žalia (Linea Verde),,,,,,TRUE
+514,506,Žalia (Damas. Verde),,,,,,,,Žalia (Damas. Verde),,,,,,TRUE
+216,506,Žalia (Seta Verde),,,,data/DEZUTES/Seta Verde/seta verde 1.jpg,,,,Žalia (Seta Verde),,,,,,TRUE
+107,506,Žalia su žirniukais (Dots Menta),,,,data/DEZUTES/Dots Menta/dovanu-dezutes-dovaneles-sveciams-ispudziu-studija-dots menta.gif,,,,Žalia su žirniukais (Dots Menta),,,,,,TRUE
+158,24,Dėžutės buteliams,,,,/banners/butel.jpg,,,,Dėžutės buteliams,,,,,,TRUE
+163,158,Auksinė (Seta Oro),,,,data/DEZUTES/Seta Oro/55.gif,,,,Auksinė (Seta Oro),,,,,,TRUE
+161,158,Balta ( Pelle Bianco),,,,data/DEZUTES/Pelle Bianco/49.gif,,,,Balta ( Pelle Bianco),,,,,,TRUE
+223,158,Balta Eko (Bianco Economico),,,,data/DEZUTES/Bianco economico/dovanu-dezutes-pakavimas-buteliams-bianco-economico.jpg,,,,Balta Eko (Bianco Economico),,,,,,TRUE
+205,158,Bordo (Seta Bordeaux),,,,data/DEZUTES/Seta Bordeaux/50.jpg,,,,Bordo (Seta Bordeaux),,,,,,TRUE
+164,158,Gofro kartono (Onda Avana),,,,data/DEZUTES/Onda Avana/57.gif,,,,Gofro kartono (Onda Avana),,,,,,TRUE
+179,158,Juoda ( Seta Nero) ,,,,data/DEZUTES/Seta Nero/177.gif,,,,Juoda ( Seta Nero) ,,,,,,TRUE
+350,158,Kreminė (Tela Neutro),,,,data/DEZUTES/Tela Neutro/dovanu-dezutes-kartonines-pakavimas-buteliams-kaledos-kaledines-dovanos-tela-neutro-.jpg,,,,Kreminė (Tela Neutro),,,,,,TRUE
+208,158,Mėlyna ( Juta Blue) ,,,,data/DEZUTES/Juta Blue/Juta Blu but..jpg,,,,Mėlyna ( Juta Blue) ,,,,,,TRUE
+219,158,Oranžinė (Terra),,,,data/DEZUTES/Terra/dezutes buteliams oranzine terra.jpg,,,,Oranžinė (Terra),,,,,,TRUE
+462,158,Pilka (Matelasse Grigio),,,,/Dezutes/Matelasse Grigio/dezutes_matelasse_grigio.jpg,,,,Pilka (Matelasse Grigio),,,,,,TRUE
+159,158,Prabangi ruda (Pelle Marrone)     ,,,,data/DEZUTES/Pelle Marrone/47.gif,,,,Prabangi ruda (Pelle Marrone)     ,,,,,,TRUE
+187,158,Ruda (Lari Ramato),,,,data/DEZUTES/Lari Ramato/224.gif,,,,Ruda (Lari Ramato),,,,,,TRUE
+183,158,Ruda (Seta Marrone),,,,data/DEZUTES/Seta Marrone/219.gif,,,,Ruda (Seta Marrone),,,,,,TRUE
+160,158,Sidabrinė (Pelle Grigio),,,,data/DEZUTES/Pelle Grigio/48.gif,,,,Sidabrinė (Pelle Grigio),,,,,,TRUE
+191,158,Šampaninė ( Lari Champagne),,,,data/DEZUTES/Lari Champagne/227.gif,,,,Šampaninė ( Lari Champagne),,,,,,TRUE
+299,158,Šviesi auksinė (Ardesia Oro),,,,data/DEZUTES/Ardesia Oro/dovanu-dezutes-pakavimas-buteliams-kaledos-kaledines-dovanos-ardesia-or.jpg,,,,Šviesi auksinė (Ardesia Oro),,,,,,TRUE
+217,158,Žalia (Seta Verde),,,,data/DEZUTES/Seta Verde/seta verde.jpg,,,,Žalia (Seta Verde),,,,,,TRUE
+151,24,Dėžutės saldumynams,,,,/banners/dezutes.jpg,,,,Dėžutės saldumynams,,,,,,TRUE
+509,24,Dėžutės su skaidriu langeliu,,,,/Dezutes/skaidriu lang.jpg,,,,Dėžutės su skaidriu langeliu,,,,,,TRUE
+510,24,Medinės dėžės,,,,/Krikstynos/balta tuscia deze2.jpg,,,,Medinės dėžės,,,,,,TRUE
+112,24,Skaidrios dėžutės,,,,/virseliai/skaidrios dezutes oki.jpg,,,,Skaidrios dėžutės,,,,,,TRUE
+266,24,Vaikiškos dėžutės ,,,,/virseliai/vaikiskos dezutes.jpg,,,,Vaikiškos dėžutės ,,,,,,TRUE
+398,0,Idealios medinės pakabos,,,,data/Pakabos/Medines_pakabos_.jpg,,,,Idealios medinės pakabos,,,,,,TRUE
+386,398,Medinės pakabos  - NATURAL,,,,"data/Pakabos/Medines pakabos rubams, medine pakaba drabuziams, naturalios spalvos buko medienos, medis, rubu pakabos-lakuotos.jpg",,,,Medinės pakabos  - NATURAL,,,,,,TRUE
+377,398,Medinės pakabos - WENGE,,,,"data/Pakabos/Medines pakabos, medine pakaba, wenge spalva, medis, pakabas-121.jpg",,,,Medinės pakabos - WENGE,,,,,,TRUE
+378,398,Medinės pakabos - WHITE WASH,,,,"data/Pakabos/Medines pakabos, medine pakaba, wenge, white wash spalva, medis, pakabas.jpg",,,,Medinės pakabos - WHITE WASH,,,,,,TRUE
+381,0,Išpardavimas!,,,,data/katalogas/Nuotrauku-galerija-kvietimai-dezutes.jpg,,,,Išpardavimas!,,,,,,TRUE
+383,381,Dovanų dėžutės ir maišeliai,,,,data/DEZUTES/Dovanu-dezutes-su-rastais-dezute-deze.jpg,,,,Dovanų dėžutės ir maišeliai,,,,,,TRUE
+56,381,Indai,,,,data/katalogas/113.jpg,,,,Indai,,,,,,TRUE
+285,56,&quot;Kauno Jiesia&quot; puodeliai ,,,,data/Jiesia/logo.png,,,,&quot;Kauno Jiesia&quot; puodeliai ,,,,,,TRUE
+22,381,Interjero detalės - dovanos,,,,data/interjeras2.jpg,,,,Interjero detalės - dovanos,,,,,,TRUE
+329,22,Aromatinės žvakidės,,,,data/aromatines zvakides/scentchips2.jpg,,,,Aromatinės žvakidės,,,,,,TRUE
+315,22,Papuošalų dėžutės,,,,data/Papuošalų dėžutės/084837.jpg,,,,Papuošalų dėžutės,,,,,,TRUE
+59,22,Puošmenos namams,,,,data/katalogas/a3.jpg,,,,Puošmenos namams,,,,,,TRUE
+273,22,Rojaus Angeliukai,,,,/LT angelai/angeliukai.jpg,,,,Rojaus Angeliukai,,,,,,TRUE
+58,22,Vazos,,,,data/katalogas/111.jpg,,,,Vazos,,,,,,TRUE
+57,22,Žvakidės,,,,data/katalogas/esprit_de_famille20Ze.jpg,,,,Žvakidės,,,,,,TRUE
+534,381,Kanceliarinės prekės,,,,/Vestuves/kempineles.jpg,,,,Kanceliarinės prekės,,,,,,TRUE
+382,381,Kvietimai,,,,data/kvietimu katalogai/laser_art_belvedere_grupa_png.png,,,,Kvietimai,,,,,,TRUE
+384,381,Kvietimai ir kiti šventiniai atributai,,,,/Interjero detales/Indai/seimos zidinys.jpg,,,,Kvietimai ir kiti šventiniai atributai,,,,,,TRUE
+483,381,Mediniai virtuvės reikmenys,,,,/Interjero detales/Mediniai įrankiai/virselis.jpg,,,,Mediniai virtuvės reikmenys,,,,,,TRUE
+487,381,Mediniai įrankiai,,,,/Interjero detales/Mediniai įrankiai/virselis.jpg,,,,Mediniai įrankiai,,,,,,TRUE
+385,381,Pakavimo popierius - Gera kaina!,,,,data/Pakavimo popierius.jpg,,,,Pakavimo popierius - Gera kaina!,,,,,,TRUE
+379,381,Stikliniai indai,,,,data/nuomaweb.jpg,,,,Stikliniai indai,,,,,,TRUE
+60,381,Vaikiškos prekės,,,,data/katalogas/106.jpg,,,,Vaikiškos prekės,,,,,,TRUE
+444,60,Vaikiški nuotraukų albumai,,,,data/ALBUMAI/2016-03-14 14_07_54-CATALOGUE PANODIA 2016 BD.pdf - Adobe Reader.png,,,,Vaikiški nuotraukų albumai,,,,,,TRUE
+12,0,Krikštynoms...,,,,data/krikstynos2.jpg,,,,Krikštynoms...,,,,,,TRUE
+281,12,Daiktų saugojimo dėžės,,,,data/KRIKSTYNOS/vaikiskos daiktu dezes.png,,,,Daiktų saugojimo dėžės,,,,,,TRUE
+40,12,Krikštynų dovanėlės,,,,/Vestuves/Saldzios dovaneles/IMG_2718a.jpg,,,,Krikštynų dovanėlės,,,,,,TRUE
+484,40,Dovanėlės mažiesiems,,,,/Krikstynos/Dantuku dezutes/rausvas rankytei.jpg,,,,Dovanėlės mažiesiems,,,,,,TRUE
+175,40,Dėžutės dovanėlėms,,,,/virseliai/vaikiskos dezutes.jpg,,,,Dėžutės dovanėlėms,,,,,,TRUE
+449,40,Dėžutės sruogelei,,,,data/Dantukų dėžutės/CASITA_TOPO_PARA_LOS_DIENTES_DEL_RATONCITO_PEREZ_AMADEUS.jpg,,,,Dėžutės sruogelei,,,,,,TRUE
+269,40,Maišeliai dovanėlėms,,,,data/KRIKSTYNOS/maiseliai-maiselis-lininiai-drobiniai-organziniai.jpg,,,,Maišeliai dovanėlėms,,,,,,TRUE
+453,12,Krikštynų žvakės,,,,/zvakes/bendra.jpg,,,,Krikštynų žvakės,,,,,,TRUE
+451,12,Medinės dėžės prisiminimams,,,,data/dezes prisiminimams/deze Mano krikstynos web.jpg,,,,Medinės dėžės prisiminimams,,,,,,TRUE
+39,12,Nuotraukų albumai,,,,/Krikstynos/nuotrauku albumai/albumai-panodia.jpg,,,,Nuotraukų albumai,,,,,,TRUE
+38,12,Palinkėjimų knygos vaikams,,,,data/Palinkejimu knygos/palinkejimu-knyga-krikstynoms-melsvos-pedutes.jpg,,,,Palinkėjimų knygos vaikams,,,,,,TRUE
+287,12,Papuošimai,,,,data/PAPUOSIMAI/Sventes-dekoracijos-mano-krikstynos-viskas-krikstynoms-vaikiski-papuosimai-papuosimas.jpg,,,,Papuošimai,,,,,,TRUE
+283,12,Vaikiški skėčiai...,,,,data/Latviu albumai/Children parasol ivory (2).jpg,,,,Vaikiški skėčiai...,,,,,,TRUE
+454,12,Įsakymai Krikštatėviams ,,,,data/KRIKSTYNOS/Isakymai Krikstateviams1web.jpg,,,,Įsakymai Krikštatėviams ,,,,,,TRUE
+452,12,Žaidimai krikštynoms,,,,/Krikstynos/zaidimai/Zaidimas  Isminciai.JPG,,,,Žaidimai krikštynoms,,,,,,TRUE
+255,0,Pakabos,,,,/banners/medines pakabis.jpg,,,,Pakabos,,,,,,TRUE
+302,0,Pakavimo priemonės ,,,,data/pak.jpg,,,,Pakavimo priemonės ,,,,,,TRUE
+52,302,Dovanų pakavimo popierius,,,,/Pavavimo priemones/pakavimo pop.jpg,,,,Dovanų pakavimo popierius,,,,,,TRUE
+523,52,Lapais (70x100cm),,,,/Pavavimo priemones/Dovanu popierius/8.jpg,,,,Lapais (70x100cm),,,,,,TRUE
+522,52,Ritiniai (rulonai),,,,/Pavavimo priemones/pakavimo pop.jpg,,,,Ritiniai (rulonai),,,,,,TRUE
+51,302,Dovanų papuošimai,,,,/Pavavimo priemones/papuosimai.jpg,,,,Dovanų papuošimai,,,,,,TRUE
+544,51,Kortelės prie dovanų,,,,,,,,Kortelės prie dovanų,,,,,,TRUE
+545,51,Papuošimai,,,,,,,,Papuošimai,,,,,,TRUE
+72,51,Popierinės dekoracijos,,,,/virseliai/ozdoba_na_kieliszek_07.18.14.103_1024x1024.jpg,,,,Popierinės dekoracijos,,,,,,TRUE
+518,302,Juostelės,,,,/Pavavimo priemones/juoseles.jpg,,,,Juostelės,,,,,,TRUE
+50,518,Medžiaginės juostelės,,,,/Pavavimo priemones/juoseles.jpg,,,,Medžiaginės juostelės,,,,,,TRUE
+540,50,Aksominės juostelės,,,,,,,,Aksominės juostelės,,,,,,TRUE
+546,50,Atlasinės juostelės,,,,,,,,Atlasinės juostelės,,,,,,TRUE
+539,50,Blizgios juostelės,,,,,,,,Blizgios juostelės,,,,,,TRUE
+541,50,Grosgrain juostelės,,,,,,,,Grosgrain juostelės,,,,,,TRUE
+543,50,Organzinės juostelės,,,,,,,,Organzinės juostelės,,,,,,TRUE
+538,50,Pigios atlasinės juostelės,,,,,,,,Pigios atlasinės juostelės,,,,,,TRUE
+542,50,Raštuotos juostelės,,,,,,,,Raštuotos juostelės,,,,,,TRUE
+213,518,Popierinė Rafija,,,,data/Juosteles/Raffia.jpg,,,,Popierinė Rafija,,,,,,TRUE
+49,302,Maišeliai,,,,/Pavavimo priemones/maiseliai.jpg,,,,Maišeliai,,,,,,TRUE
+341,49,Dekoruoti maišeliai,,,,data/Maiseliai/torby-h-212-350.jpg,,,,Dekoruoti maišeliai,,,,,,TRUE
+464,49,Dovanų maišeliai,,,,/Dezutes/Matelasse Nudo/Prabangus_maiseliai_.jpg,,,,Dovanų maišeliai,,,,,,TRUE
+215,49,Maišeliai buteliams,,,,data/Maiseliai/222.jpg,,,,Maišeliai buteliams,,,,,,TRUE
+214,49,Medžiaginiai/medvilniniai maišeliai,,,,/Pavavimo priemones/Medziaginiai maiseliai/maišeliai.jpg,,,,Medžiaginiai/medvilniniai maišeliai,,,,,,TRUE
+446,49,Pigūs dovanų maišeliai (asorti po 20 vnt.),,,,data/Maiseliai/SAM_4748.JPG,,,,Pigūs dovanų maišeliai (asorti po 20 vnt.),,,,,,TRUE
+374,49,Vienspalviai maišeliai,,,,data/Maiseliai/makeThumb.jpg,,,,Vienspalviai maišeliai,,,,,,TRUE
+389,302,Minkštas Tissue popierius,,,,/Pavavimo priemones/tissue2.jpg,,,,Minkštas Tissue popierius,,,,,,TRUE
+390,302,Popierinės ir medinės drožlės,,,,/Pavavimo priemones/drozles2.jpg,,,,Popierinės ir medinės drožlės,,,,,,TRUE
+298,302,Skaidri plėvelė,,,,/Pavavimo priemones/skaidri plev.jpg,,,,Skaidri plėvelė,,,,,,TRUE
+238,0,Velykos 2014,,,,data/Velykos Easter 2012.jpg,,,,Velykos 2014,,,,,,TRUE
+17,0,Vestuvės,,,,data/Classic virselis2016.jpg,,,,Vestuvės,,,,,,TRUE
+519,0,Vokai ir popierius,,,,/Vokai/CC C6.jpg,,,,Vokai ir popierius,,,,,,TRUE
+533,519,Popierius,,,,/Vokai/lapas cc.jpg,,,,Popierius,,,,,,TRUE
+517,519,Vokai,,,,/Vokai/CC C6.jpg,,,,Vokai,,,,,,TRUE
+536,517,B6 formato vokai,,,,,,,,B6 formato vokai,,,,,,TRUE
+529,517,C5 formato vokai,,,,/Vokai/Filtras/a5.jpg,,,,C5 formato vokai,,,,,,TRUE
+530,517,C6 formato vokai,,,,/Vokai/Filtras/a6.jpg,,,,C6 formato vokai,,,,,,TRUE
+528,517,C7 formato vokai,,,,/Vokai/Filtras/a7.jpg,,,,C7 formato vokai,,,,,,TRUE
+531,517,DL formato vokai,,,,/Vokai/Filtras/ld.jpg,,,,DL formato vokai,,,,,,TRUE
+532,517,K4 formato vokai,,,,/Vokai/Filtras/4k.jpg,,,,K4 formato vokai,,,,,,TRUE

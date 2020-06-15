@@ -1,0 +1,14 @@
+{
+    "name": "marek/magento2_csv_product_import",
+    "require": {
+        "shuchkin/simplexlsx": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marek Sivicki",
+            "email": "mr.siiwicki@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
